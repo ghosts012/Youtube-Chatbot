@@ -1,0 +1,15 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets and environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit folders
+.streamlit/
