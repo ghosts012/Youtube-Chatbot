@@ -1,6 +1,6 @@
 # 📺 YouTube Video Chatbot (GenAI)
 
-An interactive AI-powered application that allows users to chat with any YouTube video. Using **Gemini 1.5 Flash**, **LangChain**, and **FAISS**, the app extracts transcripts, indexes them into a vector store, and provides precise answers based *only* on the video content.
+An interactive AI-powered application that allows users to chat with any YouTube video. Using **Gemini 2.5 Flash**, **LangChain**, and **FAISS**, the app extracts transcripts, indexes them into a vector store, and provides precise answers based *only* on the video content.
 
 ## 🚀 Features
 * **Transcript Extraction:** Automatically fetches transcripts (English/Hindi) using `youtube-transcript-api`.
