@@ -10,7 +10,7 @@ An interactive AI-powered application that allows users to chat with any YouTube
 
 ## 🛠️ Tech Stack
 - **Frontend:** [Streamlit](https://streamlit.io/)
-- **LLM:** [Google Gemini 1.5 Flash](https://ai.google.dev/)
+- **LLM:** [Google Gemini 2.5 Flash](https://ai.google.dev/)
 - **Orchestration:** [LangChain](https://www.langchain.com/)
 - **Vector DB:** [FAISS](https://github.com/facebookresearch/faiss)
 - **Embeddings:** HuggingFace (`all-MiniLM-L6-v2`)
@@ -19,9 +19,3 @@ An interactive AI-powered application that allows users to chat with any YouTube
 - Python 3.9 or higher
 - A Google AI (Gemini) API Key
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/youtube-chatbot.git](https://github.com/ghosts012/youtube-chatbot.git)
-   cd youtube-chatbot
